@@ -1,4 +1,4 @@
-# 🚀 Rocketseat Explorer - D3 - Fixing Bugs
+# 🚀 Rocketseat Explorer - D3 - Challenge: Fixing Bugs
 
 - This challenge was part of Rocketseat's Explorer program and made me fix the semantic and accessibility guideline problems for a broken HTML and CSS code in a static website.
 
